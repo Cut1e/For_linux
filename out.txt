@@ -1,0 +1,91 @@
+-------------------------
+0:0:0
+ID Vendor= : 8086, Intel Corporation
+ID device= : 1237, 440FX - 82441FX PMC [Natoma]
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ0
+-------------------------
+0:1:0
+ID Vendor= : 8086, Intel Corporation
+ID device= : 7000, 82371SB PIIX3 ISA [Natoma/Triton II]
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ0
+-------------------------
+0:1:1
+ID Vendor= : 8086, Intel Corporation
+ID device= : 7111, 82371AB/EB/MB PIIX4 IDE
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ0
+-------------------------
+0:2:0
+ID Vendor= : 15AD, VMware
+ID device= : 0405, SVGA II Adapter
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ10
+-------------------------
+0:3:0
+ID Vendor= : 8086, Intel Corporation
+ID device= : 100E, 82540EM Gigabit Ethernet Controller
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ9
+-------------------------
+0:4:0
+ID Vendor= : 80EE, InnoTek Systemberatung GmbH
+ID device= : CAFE, VirtualBox Guest Service
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ11
+-------------------------
+0:5:0
+ID Vendor= : 8086, Intel Corporation
+ID device= : 2415, 82801AA AC'97 Audio Controller
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ11
+-------------------------
+0:6:0
+ID Vendor= : 106B, Apple Inc.
+ID device= : 003F, KeyLargo/Intrepid USB
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ10
+-------------------------
+0:7:0
+ID Vendor= : 8086, Intel Corporation
+ID device= : 7113, 82371AB/EB/MB PIIX4 ACPI
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ9
+-------------------------
+0:D:0
+ID Vendor= : 8086, Intel Corporation
+ID device= : 2829, 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]
+
+Is bridge: no
+
+Exercise 4 Expansion ROM base address: address space is disabled
+Exercise 6 or 12 Interrupt line: IRQ11
+-------------------------
